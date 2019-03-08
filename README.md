@@ -124,7 +124,7 @@ npm install
   ```
 
 #### `Methods`
-- Class methods **must** be declared with `camel` and have return `type`.
+- Class methods **must** be declared with `camelCase` and have return `type`.
 - Parameters **must** have `type` declaration
 - Example:
   ```typescript
@@ -134,7 +134,7 @@ npm install
   ```
 
 #### `Methods with Promise`
-- Class methods **must** be declared with `camel` and have return `type`.
+- Class methods **must** be declared with `camelCase` and have return `type`.
 - Parameters **must** have `type` declaration
 - Example:
   ```typescript
